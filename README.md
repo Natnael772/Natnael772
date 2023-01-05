@@ -1,6 +1,5 @@
 <img  align = 'left' width = '50%'  height= '300px' src= "https://github-readme-stats.vercel.app/api?username=natnael772&show_icons=true&theme=radical" />
-
-<img  align = 'left' width = '51%' height= '300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinsarmu&layout=compact" />
+<img  align = 'left' width = '50%' height= '300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinsarmu&layout=compact" />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=natnael772&theme=dark)](https://git.io/streak-stats)
 
