@@ -1,4 +1,4 @@
-<h2>My github stats</h2>
+
 <img  align = 'left' width = '50%'  height= '220px' src= "https://github-readme-stats.vercel.app/api?username=natnael772&show_icons=true&theme=radical" />
 <img  align = 'left' width = '50%' height= '270px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnael772&layout=compact&theme=radical" />
 
