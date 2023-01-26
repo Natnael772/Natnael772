@@ -5,15 +5,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Natnael+Deyas....;Nice+to+meet+you!&center=true&size=28">
   </a>
 </h1>
+<p align="center">
+<a href="https://dev.to/natnael772" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="natnael" height="30" width="40" /></a>
+<a href="https://twitter.com/natnael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Natnael" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/natnael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Natnael" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/natnael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Natnael" height="30" width="40" /></a>
+<a href="https://instagram.com/natnael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Natnael" height="30" width="40" /></a>
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/natnael/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/natnael" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/natnael772/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
 <br>
-<p align="center" size="8px">
+<p align="center">
   Hi, I'm Natnael Deyas, a passionate fullstack developer from Ethiopia.<br>  
   🎓 I'm currently pursuing Software Engineering in Jimma University, Ethiopia.
   <br>
