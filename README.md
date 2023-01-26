@@ -17,12 +17,12 @@
   Hi, I'm Natnael Deyas, a passionate fullstack developer from Ethiopia.<br>  
   🎓 I'm currently pursuing Software Engineering in Jimma University, Ethiopia.
   <br>
-  💻 I love writing code and learn anythings about it</br>
+  💻 I love writing code and learn anythings about it.</br>
   📫 How to reach me: <a href="mailto: natnaeldeyas@hotmail.com">natnaeldeyas0@gmail.com</a>
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages & Frameworks  🔥</h2>
 <br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
