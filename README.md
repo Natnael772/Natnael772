@@ -15,7 +15,7 @@
 <br>
 <p align="center">
   Hi, I'm Natnael Deyas, a passionate fullstack developer from Ethiopia.<br>  
-  🎓 I'm currently pursuing Software Engineering in Jimma University.
+  🎓 I'm currently 4th year Software Engineering student.
   <br>
   💻 I love writing code and learn anythings about it.</br>
   📫 How to reach me: <a href="mailto: natnaeldeyas@hotmail.com">natnaeldeyas0@gmail.com</a>
