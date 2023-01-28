@@ -7,10 +7,10 @@
 </h1>
 <p align="center">
 <a href="https://dev.to/natnael772" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="natnael" height="30" width="40" /></a>
-<a href="https://twitter.com/natnael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Natnael" height="30" width="40" /></a>
+<a href="https://twitter.com/NatnaelDeyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Natnael" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/natnael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Natnael" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/natnael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Natnael" height="30" width="40" /></a>
-<a href="https://instagram.com/natnael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Natnael" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21098042/natnael-deyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Natnael" height="30" width="40" /></a>
+<a href="https://www.instagram.com/armcrypt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Natnael" height="30" width="40" /></a>
 
 <br>
 <p align="center">
