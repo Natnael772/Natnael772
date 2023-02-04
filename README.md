@@ -15,7 +15,7 @@
 <br>
 <p align="center">
   Hi, I'm Natnael Deyas, a passionate fullstack developer from Ethiopia.<br>  
-  💻 I love writing code and learn anythings about it.</br>
+  💻 I love writing code and solve real-world problems.</br>
   📫 How to reach me: <a href="mailto: natnaeldeyas@hotmail.com">natnaeldeyas0@gmail.com</a>
 </p>
 
