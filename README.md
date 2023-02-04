@@ -20,7 +20,7 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks  🔥</h2>
+<h2 align="center">🔥 Languages & Tools  🔥</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,html,ts,sass,flutter,python,express,php,css,wordpress,xd,figma,git,heroku,vercel,firebase,cpp&theme=dark)](https://skillicons.dev)
 
