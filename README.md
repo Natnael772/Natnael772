@@ -25,7 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,react,redux,tailwind,nodejs,html,ts,sass,flutter,python,express,php,css,wordpress,xd,figma,git,heroku,vercel,firebase,cpp&theme=dark)](https://skillicons.dev)
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ My Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
