@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm full-stack engineer specialized on backend development. <br>👯 I'm looking to work on any complex projects.<br>🌱 I’m currently pursuing software engineering major at Jimma University, Ethiopia.<br>💬 Open-minded and willing to help you solve issues with your project.
+🔭 I'm a full-stack engineer specialized on backend development. <br>👯 I'm looking to work on any complex projects.<br>🌱 I’m currently pursuing software engineering major at Jimma University, Ethiopia.<br>💬 Open-minded and willing to help you solve issues with your project.
 
 
 ## 🌐 Socials:
