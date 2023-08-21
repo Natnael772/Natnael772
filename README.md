@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Full-Stack Software Engineer specialized on backend web development.<br>👯 I'm open for work, looking to work on any complex projects.<br>🌱 I’m currently pursuing software engineering at Jimma University.<br>💬 Open-minded and willing to help you solve issues with your project.
+🔭 I'm a Full-Stack Software Engineer specialized on backend development.<br>👯 I'm open for work, looking to work on any complex projects.<br>🌱 I’m currently pursuing software engineering at Jimma University.<br>💬 Open-minded and willing to help you solve issues with your project.
 
 
 ## 🌐 Socials:
