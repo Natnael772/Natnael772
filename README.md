@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I'm a Software Engineer specialized on backend development.<br>👯 I'm open for work, looking to work on any complex projects.<br>🌱 I’m currently pursuing software engineering major.<br>💬 Open-minded and willing to help you solve issues with your project.    
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natnael-deyas-274ba0230/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/armcrypt/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NatnaelDeyas) 
