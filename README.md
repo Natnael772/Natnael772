@@ -46,6 +46,7 @@
 <br />
 
 <!-- About Section -->
+<!--
  # About me
  
 <p>
@@ -58,6 +59,7 @@
 <br/>
 <br/>
 <br/>
+-->
 
 
 
