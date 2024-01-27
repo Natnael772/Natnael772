@@ -63,7 +63,7 @@
 
 
 
-## Languages and Tools
+## 💻 Languages and Tools
 
 - Frontend
 <p align="left">
@@ -110,7 +110,7 @@
 
 -->
 
-## Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/natnael772">
