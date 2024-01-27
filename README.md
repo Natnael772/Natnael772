@@ -104,9 +104,13 @@
 
 <br/>
 
+
+<!--
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+-->
 
+## Stats
 
 <p align="center">
   <a href="https://github.com/natnael772">
