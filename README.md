@@ -4,7 +4,6 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
 <h3 align="center">
@@ -55,7 +54,6 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: natnaeldeyas0@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/natnael772/natnael772/issues)
 
 </p>
 
