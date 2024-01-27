@@ -65,29 +65,24 @@
 
 ## 🛠️ Languages and Tools
 
-<!--
+
 - Frontend
 
--->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
   </a>
 </p>
 
-<!--
+
 - Backend
--->
 <p align="left">
   <a href="https://skillicons.dev">
-    <!--
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-    -->
-     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgresql" />
   </a>
 </p>
 
-<!--
+
 - Database
 
 <p align="left">
@@ -95,7 +90,6 @@
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
--->
 
 <!--
 - Cloud Servers
@@ -106,9 +100,9 @@
 </p>
 -->
 
-<!--
+
 - Tools
--->
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,linux" />
