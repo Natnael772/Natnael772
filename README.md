@@ -84,14 +84,16 @@
 
 <br/>
 
+
+
 <p align="left">
   <a href="https://github.com/natnael772?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
-<hr/>
 <br/>
 
+## GitHub Stats
 <p align="center">
   <a href="https://github.com/natnael772">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=natnael772&theme=radical&border=7F3FBF&background=0D1117" alt="Natnael's GitHub streak"/>
