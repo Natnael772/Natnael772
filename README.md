@@ -22,6 +22,7 @@
     <br>
   </samp>
 </p>
+<br/>
 
 
 
@@ -48,12 +49,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
-
-
-<p align="left">
-  <a href="https://github.com/natnael772?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
 <br/>
 <hr/>
