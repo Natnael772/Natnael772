@@ -17,7 +17,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Natnael+Deyas">「 Google Me 」</a>
     <br>
-    「 I am a Full Stack Developer from <b>Ethiopia</b> 」
+    「 I am a Full Stack Software Engineer from <b>Ethiopia</b> 」
     <br>
     <br>
   </samp>
