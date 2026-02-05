@@ -17,7 +17,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Natnael+Deyas">「 Google Me 」</a>
     <br>
-    「 I’m a backend-heavy engineer with 3+ years of production experience building APIs, microservices, and distributed systems.」
+    「 I’m a backend-heavy software engineer with 3+ years of production experience building APIs, microservices, and distributed systems.」
     <br>
     <br>
   </samp>
