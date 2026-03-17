@@ -8,7 +8,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://natnaeldev.vercel.app/">Natnael</a></b>
+                <b><a target="_blank" href="https://natnaeldev.vercel.app/">Natnael Deyas</a></b>
         </samp>
 </h3>
 
@@ -17,7 +17,10 @@
   <samp>
     <a href="https://www.google.com/search?q=Natnael+Deyas">「 Google Me 」</a>
     <br>
-    「 I’m a backend-heavy software engineer with 3+ years of production experience building APIs, microservices, and distributed systems.」
+    「 I'm a Backend-focused Software Engineer building **scalable, high-reliability systems** for fintech, marketplaces, logistics, and healthcare. Obsessed with clean APIs, low-latency backends, and shipping production-grade code.」
+    <br>
+      <br>
+    ✉️ Contact: <a href="mailto:natnaeldeyas0@gmail.com">natnaeldeyas0@gmail.com</a>
     <br>
     <br>
   </samp>
