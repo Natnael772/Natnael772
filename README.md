@@ -17,7 +17,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Natnael+Deyas">「 Google Me 」</a>
     <br>
-    「 I'm a Backend-focused Software Engineer building **scalable, high-reliability systems** for fintech, marketplaces, logistics, and healthcare. Obsessed with clean APIs, low-latency backends, and shipping production-grade code.」
+    「 I'm a Backend-focused Software Engineer building scalable, high-reliability systems for fintech, marketplaces, logistics, and healthcare. Obsessed with clean APIs, low-latency backends, and shipping production-grade code.」
     <br>
       <br>
     ✉️ Contact: <a href="mailto:natnaeldeyas0@gmail.com">natnaeldeyas0@gmail.com</a>
